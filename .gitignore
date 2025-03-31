@@ -4,6 +4,8 @@
 ### MEAN ###
 # MEAN Stack Base
 
+.gitignore
+
 ### MEAN.Node Stack ###
 # Logs
 logs
